@@ -5,7 +5,7 @@ import os
 import csv
 
 # Replace with your actual API key
-API_KEY = "AIzaSyBtZ39rEL1ygWID7pyrIOlxfMv9a791guA"
+API_KEY = "APIKEY"
 BASE_URL = "https://maps.googleapis.com/maps/api/streetview"
 
 # Create a folder to store images
